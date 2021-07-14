@@ -13,7 +13,7 @@ import Prelude hiding (maybe,either)
 
 import qualified Text.XML.HaXml.XmlContent as X
 import Data.Maybe hiding (maybe)
-import Data.List
+import Data.List (intersperse)
 
 -- | Convert a fully-typed XML document to a string (without DTD).
 showXmlLazy :: X.XmlContent a => Bool -> a -> String

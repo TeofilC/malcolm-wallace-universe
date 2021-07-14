@@ -8,7 +8,7 @@ import Text.XML.HaXml.Types
 import Text.XML.HaXml.Namespaces
 
 import Data.Char
-import Data.List
+import Data.List (intersperse, isPrefixOf)
 
 -- | An XName just holds the original XSD qualified name.  It does not
 --   ensure that the string conforms to any rules of the various Haskell

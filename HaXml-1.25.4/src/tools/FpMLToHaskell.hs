@@ -14,7 +14,7 @@ import System.IO
 import Control.Monad
 import Control.Exception as E
 import System.Directory
-import Data.List
+import Data.List ((\\), intersperse, isSuffixOf, nubBy, nub)
 import Data.Maybe (fromMaybe,catMaybes)
 import Data.Function (on)
 import Data.Monoid (mconcat)
