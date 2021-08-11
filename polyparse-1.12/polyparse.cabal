@@ -1,7 +1,7 @@
 name:           polyparse
 version:        1.13
 x-revision:     2
-license:        LGPL
+license:        LGPL-2.1
 license-files:   COPYRIGHT, LICENCE-LGPL, LICENCE-commercial
 copyright:      (c) 2006-2016 Malcolm Wallace
 author:         Malcolm Wallace <Malcolm.Wallace@me.com>

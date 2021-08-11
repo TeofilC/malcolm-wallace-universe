@@ -3,7 +3,7 @@ name:           HaXml
 version:        1.25.5
 x-revision:     3
 
-license:        LGPL
+license:        LGPL-2.1
 license-files:  COPYRIGHT, LICENCE-GPL, LICENCE-LGPL
 author:         Malcolm Wallace <Malcolm.Wallace@me.com>
 maintainer:     author
